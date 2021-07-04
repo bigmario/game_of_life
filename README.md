@@ -6,3 +6,10 @@ Se trata de un juego de cero jugadores, lo que quiere decir que su evolución es
 
 - Una célula muerta con exactamente 3 células vecinas vivas "nace" (es decir, al turno siguiente estará viva).
 - Una célula viva con 2 o 3 células vecinas vivas sigue viva, en otro caso muere (por "soledad" o "superpoblación").
+
+## Controles
+- Presione cualquier tecla para pausar el juego
+- Botón izquierdo del mouse: activa o da vida una celda en el tablero (debe pausar primero)
+- Botón derecho del mouse: desactiva o mata una celda en el tablero (debe pausar primero)
+
+Have fun!!!

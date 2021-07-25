@@ -1,4 +1,4 @@
-# Game of Life (Juego de la Vida) (DEV)
+# Game of Life (Juego de la Vida)
 El Juego de la vida es un autómata celular diseñado por el matemático británico John Horton Conway en 1970.
 
 ## El juego
